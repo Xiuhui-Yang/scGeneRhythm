@@ -34,7 +34,7 @@ Gene clustering and bio-marker finding in single-cell RNA sequencing play a pivo
     * monocle3 >= 1.3.1
 
 
-You may install scCross by the following command:
+You may install scGeneRhythm by the following command:
 
 ```
 git clone https://github.com/mcgilldinglab/scGeneRhythm.git
